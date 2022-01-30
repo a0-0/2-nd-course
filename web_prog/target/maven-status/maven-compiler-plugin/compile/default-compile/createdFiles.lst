@@ -1,0 +1,6 @@
+com\example\mymaven\bean\BeanComponents.class
+com\example\mymaven\bean\Bean.class
+com\example\mymaven\servlets\ControllerServlet.class
+com\example\mymaven\servlets\AreaCheckServlet.class
+com\example\mymaven\servlets\ClearTableServlet.class
+com\example\mymaven\servlets\GoBackServlet.class
